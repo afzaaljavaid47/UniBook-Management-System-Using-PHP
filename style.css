@@ -1,0 +1,10 @@
+#image:hover
+{
+	cursor: pointer;
+}
+#vp:hover
+{
+	cursor: pointer;
+	background-color: black;
+	color: white;
+}

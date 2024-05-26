@@ -1,0 +1,57 @@
+ <br><br><br><br>      
+        <!-- Section for service -->
+        <footer id="fh5co-footer" class="fh5co-bg" role="contentinfo">
+            <div class="overlay"></div>
+            <div class="container">
+                <div class="row row-pb-md">
+                    <div class="col-md-4 fh5co-widget">
+                        <h3>A Little About UNIBOOK.</h3>
+                        <p style="color:white;">This is social website Only used for EDUCATION purpose.</p>
+                        <p><a class="btn btn-primary" href="#">Become A Member</a></p>
+                    </div>
+                    <div class="col-md-8">
+                        <h3>Classes</h3>
+                        <div class="col-md-4 col-sm-4 col-xs-6">
+                            <ul class="fh5co-footer-links">
+                                <li><a href="#">ASP.NET</a></li>
+                                <li><a href="#">Laravell</a></li>
+                                <li><a href="#">Codeignitor</a></li>
+                                <li><a href="#">Bootstrap</a></li>
+                                <li><a href="#">Wordpress</a></li>
+                            </ul>
+                        </div>
+
+                        <div class="col-md-4 col-sm-4 col-xs-6">
+                            <ul class="fh5co-footer-links">
+                                <li><a href="#">Python</a></li>
+                                <li><a href="#">C</a></li>
+                                <li><a href="#">CPP</a></li>
+                                <li><a href="#">Angular</a></li>
+                                <li><a href="#">HTML5</a></li>
+                            </ul>
+                        </div>
+
+                        <div class="col-md-4 col-sm-4 col-xs-6">
+                            <ul class="fh5co-footer-links">
+                                <li><a href="#">HTML</a></li>
+                                <li><a href="#">CSS</a></li>
+                                <li><a href="#">javascript</a></li>
+                                <li><a href="#">jquery</a></li>
+                                <li><a href="#">PHP</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row copyright">
+                    <div class="col-md-12 text-center">
+                        <p>
+                            <small class="block">&copy; 2019 | All Rights Reserved.</small>
+                            <small class="block">Powered by  truepaki007@hotmail.com.com</small>
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+        </footer>
+    </div>
